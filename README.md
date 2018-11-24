@@ -65,7 +65,7 @@ Add this to your **app level** `build.gradle`:
     
    ```gradle
    dependencies {
-       compile 'com.github.marcoscgdev:SpinnerDatePicker:1.0.7'
+       implementation 'com.github.marcoscgdev:SpinnerDatePicker:1.0.7'
    }
    ```             
 
